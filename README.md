@@ -7,7 +7,7 @@
 5. student.php:contains student form to fill up for details and has the authorization layers for user such as checking if users is authenticated before accessing student page 
 6.javascript.js: validates user input.
  
- *For Implementing CSP and same origin policy there are certain policies set in this web application , CSP are implemented at the header instead of inside meta data
- * For XSS the website implemented to encode special characters and to avoid scrips to be treated as code in the browser but rather they will be presented as encoded text in browser
+ * For Implementing CSP and same origin policy there are certain policies set in this web application , CSP are implemented at the header instead of inside meta data
+ * For XSS the website implemented to encode special characters and to avoid scripts to be treated as code in the browser but rather they will be presented as encoded text in browser
  * For CSRF token is used to prevent CSRF attacks 
  
